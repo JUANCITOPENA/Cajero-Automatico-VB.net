@@ -1,0 +1,202 @@
+﻿'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Users\juanc\Desktop\CAJERO-AUTOMATICO\CAJERO-AUTOMATICO\bin\Debug\CAJERO-AUTOMATICO.exe' cargado. 
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\ntdll.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\mscoree.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\kernel32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\KernelBase.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\advapi32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\msvcrt.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\sechost.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\rpcrt4.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\sspicli.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\cryptbase.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\bcryptprimitives.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\shlwapi.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\combase.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\ucrtbase.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\gdi32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\gdi32full.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\msvcp_win.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\user32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\win32u.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\imm32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\kernel.appcore.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\version.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorwks.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9348_none_d08c1480442bf1e1\msvcr80.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\shell32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\cfgmgr32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\SHCore.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\windows.storage.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\powrprof.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\profapi.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\Microsoft.NET\Framework\v2.0.50727\Culture.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\Microsoft.NET\Framework\v2.0.50727\Culture.dll' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\NativeImages_v2.0.50727_32\mscorlib\7aa13700a6fcdcb57e6cb353e54d0ab9\mscorlib.ni.dll' cargado. 
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\ole32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\uxtheme.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (CLR v2.0.50727: DefaultDomain): 'C:\WINDOWS\assembly\GAC_32\mscorlib\2.0.0.0__b77a5c561934e089\mscorlib.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\GAC_MSIL\mscorlib.resources\2.0.0.0_es_b77a5c561934e089\mscorlib.Resources.dll' cargado. El módulo se compiló sin símbolos.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\GAC_MSIL\mscorlib.resources\2.0.0.0_es_b77a5c561934e089\mscorlib.Resources.dll' cargado. El módulo se compiló sin símbolos.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\GAC_MSIL\mscorlib.resources\2.0.0.0_es_b77a5c561934e089\mscorlib.Resources.dll' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\GAC_MSIL\mscorlib.resources\2.0.0.0_es_b77a5c561934e089\mscorlib.Resources.dll' cargado. El módulo se compiló sin símbolos.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\GAC_MSIL\mscorlib.resources\2.0.0.0_es_b77a5c561934e089\mscorlib.Resources.dll' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\GAC_MSIL\mscorlib.resources\2.0.0.0_es_b77a5c561934e089\mscorlib.Resources.dll' cargado. El módulo se compiló sin símbolos.
+'CAJERO-AUTOMATICO.exe' (CLR v2.0.50727: DefaultDomain): 'C:\WINDOWS\assembly\GAC_MSIL\mscorlib.resources\2.0.0.0_es_b77a5c561934e089\mscorlib.resources.dll' cargado. El módulo se compiló sin símbolos.
+'CAJERO-AUTOMATICO.exe' (CLR v2.0.50727: DefaultDomain): 'C:\Users\juanc\Desktop\CAJERO-AUTOMATICO\CAJERO-AUTOMATICO\bin\Debug\CAJERO-AUTOMATICO.exe' cargado. Símbolos cargados.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\NativeImages_v2.0.50727_32\System\bc87b7227bd4f7271aa9af4b06e50971\System.ni.dll' cargado. 
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualBas#\ab8b808bdf6f8db5bf6531400b5a8f1c\Microsoft.VisualBasic.ni.dll' cargado. 
+'CAJERO-AUTOMATICO.exe' (CLR v2.0.50727: CAJERO-AUTOMATICO.exe): 'C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualBasic\8.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualBasic.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'CAJERO-AUTOMATICO.exe' (CLR v2.0.50727: CAJERO-AUTOMATICO.exe): 'C:\WINDOWS\assembly\GAC_MSIL\System\2.0.0.0__b77a5c561934e089\System.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorjit.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\NativeImages_v2.0.50727_32\System.Drawing\1362f48bd711c96acf4296704c11ec70\System.Drawing.ni.dll' cargado. 
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\NativeImages_v2.0.50727_32\System.Windows.Forms\7847cf27a3d40dc10adc2bd8f4a3d3b6\System.Windows.Forms.ni.dll' cargado. 
+'CAJERO-AUTOMATICO.exe' (CLR v2.0.50727: CAJERO-AUTOMATICO.exe): 'C:\WINDOWS\assembly\GAC_MSIL\System.Windows.Forms\2.0.0.0__b77a5c561934e089\System.Windows.Forms.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'CAJERO-AUTOMATICO.exe' (CLR v2.0.50727: CAJERO-AUTOMATICO.exe): 'C:\WINDOWS\assembly\GAC_MSIL\System.Drawing\2.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\dwmapi.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\NativeImages_v2.0.50727_32\System.Runtime.Remo#\13b6144109257931670b5acade0876c7\System.Runtime.Remoting.ni.dll' cargado. 
+'CAJERO-AUTOMATICO.exe' (CLR v2.0.50727: CAJERO-AUTOMATICO.exe): 'C:\WINDOWS\assembly\GAC_MSIL\System.Runtime.Remoting\2.0.0.0__b77a5c561934e089\System.Runtime.Remoting.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\GAC_MSIL\System.Windows.Forms\2.0.0.0__b77a5c561934e089\System.Windows.Forms.dll' cargado. 
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\GAC_MSIL\System.Windows.Forms\2.0.0.0__b77a5c561934e089\System.Windows.Forms.dll' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.16299.248_none_8e66fbc1026df8ab\GdiPlus.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\WindowsCodecs.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\msctf.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\oleaut32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\DWrite.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.248_none_5d7c08dba7db7edd\comctl32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\TextInputFramework.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\CoreMessaging.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\CoreUIComponents.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\ntmarta.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\WinTypes.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\WinTypes.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\WinTypes.dll' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\NativeImages_v2.0.50727_32\System.Data\2f93e5fc8e53eb01aa37c2e4ff9c4588\System.Data.ni.dll' cargado. 
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\GAC_32\System.Data\2.0.0.0__b77a5c561934e089\System.Data.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\GAC_32\System.Data\2.0.0.0__b77a5c561934e089\System.Data.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\GAC_32\System.Data\2.0.0.0__b77a5c561934e089\System.Data.dll' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\GAC_32\System.Data\2.0.0.0__b77a5c561934e089\System.Data.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\GAC_32\System.Data\2.0.0.0__b77a5c561934e089\System.Data.dll' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\GAC_32\System.Data\2.0.0.0__b77a5c561934e089\System.Data.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\ws2_32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\crypt32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\msasn1.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (CLR v2.0.50727: CAJERO-AUTOMATICO.exe): 'C:\WINDOWS\assembly\GAC_32\System.Data\2.0.0.0__b77a5c561934e089\System.Data.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\NativeImages_v2.0.50727_32\System.Transactions\cf3515126b1140af90a2d49615ca7d04\System.Transactions.ni.dll' cargado. 
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\GAC_32\System.Transactions\2.0.0.0__b77a5c561934e089\System.Transactions.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\GAC_32\System.Transactions\2.0.0.0__b77a5c561934e089\System.Transactions.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\GAC_32\System.Transactions\2.0.0.0__b77a5c561934e089\System.Transactions.dll' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\GAC_32\System.Transactions\2.0.0.0__b77a5c561934e089\System.Transactions.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (CLR v2.0.50727: CAJERO-AUTOMATICO.exe): 'C:\WINDOWS\assembly\GAC_32\System.Transactions\2.0.0.0__b77a5c561934e089\System.Transactions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\sxs.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\clbcatq.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\system\ole db\oledb32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\dpapi.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\bcrypt.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\msdart.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\comsvcs.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\ACEOLEDB.DLL' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\WinSxS\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.9317_none_508dca76bcbcfe81\msvcr90.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\MSO.DLL' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\msi.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\srpapi.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\ACECORE.DLL' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\WinSxS\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.9317_none_508dca76bcbcfe81\msvcp90.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\Cultures\OFFICE.ODF' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\Cultures\OFFICE.ODF' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\Cultures\OFFICE.ODF' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\3082\ACEWSTR.DLL' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\MSORES.DLL' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\MSORES.DLL' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\MSORES.DLL' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\davclnt.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\davclnt.dll' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\davclnt.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\davhlpr.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\davhlpr.dll' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\davhlpr.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\3082\MSOINTL.DLL' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\3082\MSOINTL.DLL' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\3082\MSOINTL.DLL' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\ACEWDAT.DLL' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\ACEWDAT.DLL' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\ACEWDAT.DLL' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\ACEWDAT.DLL' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\ACEWDAT.DLL' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\ACEWDAT.DLL' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\NativeImages_v2.0.50727_32\System.EnterpriseSe#\f0748852587e0ad185e8f7c31887c118\System.EnterpriseServices.ni.dll' cargado. 
+'CAJERO-AUTOMATICO.exe' (CLR v2.0.50727: CAJERO-AUTOMATICO.exe): 'C:\WINDOWS\assembly\GAC_32\System.EnterpriseServices\2.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\GAC_32\System.EnterpriseServices\2.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.Wrapper.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\GAC_32\System.EnterpriseServices\2.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.Wrapper.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\GAC_32\System.EnterpriseServices\2.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.Wrapper.dll' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\NativeImages_v2.0.50727_32\System.EnterpriseSe#\f0748852587e0ad185e8f7c31887c118\System.EnterpriseServices.Wrapper.dll' cargado. 
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\GAC_32\System.EnterpriseServices\2.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.Wrapper.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\GAC_32\System.EnterpriseServices\2.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.Wrapper.dll' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\GAC_32\System.EnterpriseServices\2.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.Wrapper.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (CLR v2.0.50727: CAJERO-AUTOMATICO.exe): 'C:\WINDOWS\assembly\GAC_32\System.EnterpriseServices\2.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.Wrapper.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\NativeImages_v2.0.50727_32\System.Configuration\569b86b38e0f945a78a4ede4f1633f03\System.Configuration.ni.dll' cargado. 
+'CAJERO-AUTOMATICO.exe' (CLR v2.0.50727: CAJERO-AUTOMATICO.exe): 'C:\WINDOWS\assembly\GAC_MSIL\System.Configuration\2.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\assembly\NativeImages_v2.0.50727_32\System.Xml\20ea71edcdcd5475c2a4995b37264345\System.Xml.ni.dll' cargado. 
+'CAJERO-AUTOMATICO.exe' (CLR v2.0.50727: CAJERO-AUTOMATICO.exe): 'C:\WINDOWS\assembly\GAC_MSIL\System.Xml\2.0.0.0__b77a5c561934e089\System.Xml.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\cryptsp.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\rsaenh.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\ACEES.DLL' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\VBAJET32.DLL' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\EXPSRV.DLL' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\EXPSRV.DLL' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\EXPSRV.DLL' cargado. No se encuentra el archivo PDB o no se puede abrir.
+El subproceso 0x22b4 terminó con código 0 (0x0).
+El subproceso 0x28fc terminó con código 0 (0x0).
+El subproceso 0x22f4 terminó con código 0 (0x0).
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\Cultures\OFFICE.ODF' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\davhlpr.dll' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\davclnt.dll' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\davclnt.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\davclnt.dll' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\davclnt.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\davhlpr.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\davhlpr.dll' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\davhlpr.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\Cultures\OFFICE.ODF' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\Cultures\OFFICE.ODF' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\Cultures\OFFICE.ODF' cargado. No se encuentra el archivo PDB o no se puede abrir.
+El subproceso 0x1f1c terminó con código 0 (0x0).
+El subproceso 0x928 terminó con código 0 (0x0).
+El subproceso 0x2698 terminó con código 0 (0x0).
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\Cultures\OFFICE.ODF' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\davhlpr.dll' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\davclnt.dll' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\davclnt.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\davclnt.dll' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\davclnt.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\davhlpr.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\davhlpr.dll' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\davhlpr.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\Cultures\OFFICE.ODF' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\Cultures\OFFICE.ODF' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\Cultures\OFFICE.ODF' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\ACEERR.DLL' cargado. No se encuentra el archivo PDB o no se puede abrir.
+Excepción producida en 0x761408C2 en CAJERO-AUTOMATICO.exe: excepción de Microsoft C++: int en la ubicación de la memoria 0x006FD8D8.
+Excepción producida en 0x761408C2 en CAJERO-AUTOMATICO.exe: excepción de Microsoft C++: int en la ubicación de la memoria 0x006FD8D8.
+El subproceso 0xa88 terminó con código 0 (0x0).
+El subproceso 0x36ec terminó con código 0 (0x0).
+El subproceso 0x720 terminó con código 0 (0x0).
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\Cultures\OFFICE.ODF' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\davhlpr.dll' descargado
+'CAJERO-AUTOMATICO.exe' (Win32): 'C:\Windows\SysWOW64\davclnt.dll' descargado
+El subproceso 0xf40 terminó con código 0 (0x0).
+El subproceso 0x28ec terminó con código 0 (0x0).
+El subproceso 0x19c4 terminó con código 0 (0x0).
+El subproceso 0x1894 terminó con código 0 (0x0).
+El subproceso 0x3464 terminó con código 0 (0x0).
+El subproceso 0x36d0 terminó con código 0 (0x0).
+El subproceso 0x2e78 terminó con código 0 (0x0).
+El subproceso 0x1e0c terminó con código 0 (0x0).
+El subproceso 0x1b9c terminó con código 0 (0x0).
+El subproceso 0x3220 terminó con código 0 (0x0).
+El subproceso 0x3724 terminó con código 0 (0x0).
+El subproceso 0x1838 terminó con código 0 (0x0).
+El subproceso 0x1c60 terminó con código 0 (0x0).
+El subproceso 0x370c terminó con código 0 (0x0).
+El subproceso 0x1980 terminó con código 0 (0x0).
+El programa '[6072] CAJERO-AUTOMATICO.exe' terminó con código 0 (0x0).
