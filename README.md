@@ -1,7 +1,7 @@
 # Cajero-Automatico-VB.net
 Simulador de un Cajero Automatico Banco Popular para Enseñar a Personas Sin Conocimientos como Funciona
 
-![me with imagen cajero](https://www.facebook.com/photo.php?fbid=10217102260495063&set=pcb.10217102261655092&type=3&theater)[facebook.account](https://www.facebook.com/photo.php?/)
+https://drive.google.com/file/d/1lvG8g6vQLKq6VB19a9oLOiZExyJbG3qE/view?usp=sharing
 
 Realice este programa para ayudar en la empresa donde labora a que las personas que nunca habian usado una tarjeta de debito,
 ni visitado nunca un cajero automatico, realice una simulacion fisica con cajas, imagenes impresas etc, y realice este programa 
@@ -9,8 +9,6 @@ en visual Basic.net, con el cual simule un poco la realidad de un cajero.
 
 Les puse a prueba con ellos, simulando una situacion real, y el 95% de ellos logro comprender el uso y como sacar dinero del cajero, 
 ya que son personas de edad avanzada y nunca se habian involucrado con la Tecnologia de cajeros y tarjetas.
-
-https://drive.google.com/file/d/1lvG8g6vQLKq6VB19a9oLOiZExyJbG3qE/view?usp=sharing
 
 Espero este les sirva.
 
