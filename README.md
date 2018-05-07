@@ -3,7 +3,7 @@ Simulador de un Cajero Automatico Banco Popular para Enseñar a Personas Sin Con
 
 https://drive.google.com/file/d/1lvG8g6vQLKq6VB19a9oLOiZExyJbG3qE/view?usp=sharing
 
-Realice este programa para ayudar en la empresa donde labora a que las personas que nunca habian usado una tarjeta de debito,
+Realice este programa para ayudar en la empresa donde laboro a que las personas que nunca habian usado una tarjeta de debito,
 ni visitado nunca un cajero automatico, realice una simulacion fisica con cajas, imagenes impresas etc, y realice este programa 
 en visual Basic.net, con el cual simule un poco la realidad de un cajero.
 
@@ -18,6 +18,6 @@ Existen otros proyectos como este, pero un poco limitado, lo que hice fue tomar 
 
 https://www.youtube.com/watch?v=4W6o9SKPmH0
 
-Pueden ver como lo crearon y descargar el que modifique y adacte a la necesitad.
+Pueden ver como lo crearon y descargar el que modifique y adapte a la necesitad.
 
 Gracias Espero les sirva.
